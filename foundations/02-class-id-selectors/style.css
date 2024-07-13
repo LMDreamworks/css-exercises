@@ -1,0 +1,21 @@
+/* Styles.css */
+
+.pinkBackground {
+    background-color: #f78383;
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.thirdElement {
+    font-size: 42px;
+}
+
+#fourthElement {
+    background-color: #20b2aa;
+    font-size: 24px;
+    font-weight: bold;
+}
